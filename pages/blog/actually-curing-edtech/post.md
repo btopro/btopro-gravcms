@@ -1,5 +1,6 @@
 ---
 title: 'Actually, curing edtech'
+media_order: file6701262378458.jpg
 ---
 
 I read an article recently by [Educause Review](https://er.educause.edu/articles/2017/4/the-rise-of-educational-technology-as-a-sociocultural-and-ideological-phenomenon) and I wonder if your able to pick up on what I did. Before reading ahead, take a minute and read through their article. It's a good take on the state of affairs in education as it relates to edtech...
