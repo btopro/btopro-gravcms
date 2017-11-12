@@ -28,5 +28,5 @@ Instructure, all the rage with C levels becasue they adopted Twitter Boostrap an
 ## Why can't we do better then that?
 If you want to stop edtech driving us around collectively and being part of the techno-centric worldview that forces eduation to be more about money then learning, then you've gotta defeat this narrative. I view our team and those we collaborate with as being among the first to plant that flag in the ground. We are educators, trainers, designers, technologists, students, learners, and administrators all working together with a singular purpose to solve this problem. We are going to deliver solutions that are not profit motive driven, that are more open, more accessible, _have research backing_, and are ultimately better then anything you will see produced external to education.
 ## Don't believe it?
-Watch us!
+Watch us! This is just a small glimpse of what we have coming to all systems near you..
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJQupiji7J5dqyIVrKfPOujZKuqbmgJKm" frameborder="0" gesture="media" allowfullscreen></iframe>
