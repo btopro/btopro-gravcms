@@ -1,0 +1,13 @@
+---
+title: 'Ministry of information'
+media_order: file0002516856.jpg
+date: '07-01-2016 00:00'
+taxonomy:
+    tag:
+        - control
+        - politics
+slug: ministry-info
+image: file0002516856.jpg
+---
+
+<p>Are we witness to 1940s style crowd manipulation through propaganda without realizing it? Have you watched the news lately? Does it go by a single day without having a &quot;Get social&quot; or &quot;#HotToday&quot; kind of story about what people are talking about on social media? Is it really, we the people talking on social media or are these social spacing being controlled by media companies helping to shape the things &quot;everyone&quot; is talking about. A few things to consider with Twitter for example from a financial perspective:</p><ol><li>It is to twitter (and Facebook and the rest)&#39;s advantage to NOT close dead accounts in order to justify to the board how many impressions messages can get</li><li>It is to twitter (and the rest)&#39;s advantage to NOT stop hate / controversial speech, trolling, etc</li><li>It isn&#39;t that difficult to craft a twitter bot that searches against key words and constructs simple, hateful / inciting rhetoric messages</li></ol><p>I&#39;m not suggesting they are doing this, I&#39;m suggesting it is in their best interest financially to continue allowing the pattern to exist. It may sound conspiratorial until you realize it&#39;s already been done before. Anyone remember&nbsp;<a href="http://www.thegloss.com/2014/11/03/beauty/alex-from-target-teenager-viral-internet-meme/">#AlexFromTarget</a>? You&#39;ll notice in that link there is no reference to what actually happened. This may have &quot;gone viral&quot; but there was a <a href="http://www.cnn.com/2014/11/04/living/alex-from-target/index.html">marketing company claiming to be&nbsp;pulling the strings</a> to prove that they can do things like this. That they can get a random person on the news and millions talking about something pointless isn&#39;t really harmful, <a href="http://www.theguardian.com/world/2014/jul/08/darpa-social-networks-research-twitter-influence-studies">but what could be is this</a> (and you know others are doing it too).</p><p>What&#39;s to say this isn&#39;t happening right now? I&#39;ve been trolled by hate-bots before. Mozilla controversy? Say the word Mozilla. Drumpft? Say his name, get attacked instantly. The easiest way to stop this? Ignore those bots seeking to put you in their echo chamber of hate. It keeps you from hyping twitter (and the hate brigades) agendas and maybe, just maybe will make you have a better outlook on the world too.</p><p>Question everything.</p>
