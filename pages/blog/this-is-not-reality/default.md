@@ -1,6 +1,13 @@
 ---
 title: 'This is not reality'
-published: true
+media_order: learning-network.jpg
+date: '29-11-2017 00:00'
+taxonomy:
+    tag:
+        - 'stranger things'
+        - history
+slug: this-is-not-reality
+image: learning-network.jpg
 ---
 
 ## Chapter 1: The Shower
