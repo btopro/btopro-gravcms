@@ -14,7 +14,7 @@ image: learning-network.jpg
 A Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in the pressense of light, synapese fire off randomly. These random firings of "light" dance in the retina of the Developer seeking the answer to a problem. The retinas of the developer see the sparks trickel away as color fades back in.
 The developer pauses.. then does it again, this time focusing on those whips of ocular static fizzle away. The whips form a pattern that looks like a central star that everything is firing out and away, creating their own central stars to fire out and away from. The occular misfires form a fractual image in the minds eye.
 
-## Chapter 2: The factal
+## Chapter 2: The fractal
 The developer talks through how a fractal could be used in the design of a system. The developer writes down the fractal. The developer sees a video the next day expressing, visually, the concept of divergent ideas spawning ohter divergent ideas, expressed as a series of hexagons firing off at a tangent and forming new hexagons. The developer recreates the pattern on a whiteboard and begins to theorize how this pattern could be used to represent systems.
 
 ## Chapter 3: The monster within
