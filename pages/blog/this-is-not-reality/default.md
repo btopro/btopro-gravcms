@@ -1,5 +1,6 @@
 ---
 title: 'This is not reality'
+published: true
 ---
 
 ## Chapter 1: The Shower
