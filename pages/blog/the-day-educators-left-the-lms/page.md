@@ -1,5 +1,6 @@
 ---
 title: 'When Educators left the LMS'
+media_order: file4501249437129.jpg
 ---
 
 While not seeing it beyond previews and reviews, the movie [When God left the building](https://www.amazon.com/When-Left-Building-Group-Productions/dp/1470742136) reviews an intreging concept: that people who leave the christian church are just leaving the building and pursuing God in ways that connect better with them. I bring this idea up because I see parallels with instructors and the building provided for them, the learning management system.
