@@ -1,5 +1,11 @@
 ---
 title: 'Using Webcomponents to unearth the NGDLE'
+media_order: file0001000292998.jpg
+image: file0001000292998.jpg
+taxonomy:
+    tag:
+        - NGDLE
+        - webcomponents
 ---
 
 I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look outside the island of edtech first, always asking "What can I bring back to our space to make it better?". 10 years ago, that was Drupal. I evangelized Drupal everywhere I could, wrote hundreds of modules, positively impacted tens of 1000s of sites in and out of education while making it possible for individual developers to leverage open source automation to do awesome things. Today I write to talk about the next thing I want to bring back to our island which I think is *the* technology to bring about an open ecosystem for the Next Generation Digital Learning Environment (NGDLE).
