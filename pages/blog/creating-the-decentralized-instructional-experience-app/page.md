@@ -1,5 +1,12 @@
 ---
 title: 'Creating the decentralized instructional experience app'
+media_order: powerlines.jpg
+taxonomy:
+    tag:
+        - innovation
+        - haxtheweb
+        - decentralize
+image: powerlines.jpg
 ---
 
 This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the logical extension to HAX for desktop over 2018 which could be utilized to decentralize instructional experience creation. If this sounds of use to your institution, good, let's work together on it.
