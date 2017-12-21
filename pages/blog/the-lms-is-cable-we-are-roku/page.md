@@ -50,5 +50,7 @@ After filling out the form, it'll get placed into the content and you can go abo
 Now imagine if [HAX were a desktop app](https://github.com/LRNWebComponents/hax-desktop-app), built using the same methodology as Roku where there are distributed apps that are all pulled together. Because of webcomponents and an awesome desktop builder called Electron, we can pursue both at the same time. We'll be able to improve the distributed building capabilities in ELMS:LN while also putting these capabilities in a desktop publishing app. The app will then be able to write HTML which can work anywhere, with or without ELMS:LN / other sources, and then also have the ability to deploy to ELMS:LN's course delivery capabilities, or a static location, or a git repo, or any LMS.
 By building LMS and system agnostic, we can deploy anywhere. In the coming months you'll start to see the Roku vision rolling out with additional accessibility, usability and integrations available.
 The NGDLE will be built out of legos and deployed like Roku.
+
 [We are ELMS:LN](https://www.elmsln.org/stranger-things/).
+
 Expect Us.
