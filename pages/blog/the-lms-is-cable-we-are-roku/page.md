@@ -10,6 +10,7 @@ image: file7781274103160.jpg
 
 ## Cable
 In the 40s and 50s, the Cable industry was born.
+
 By the mid 60s it had almost a million subscribers. In the 70s and 80s the FCC regulated it heavily because of how much of an influence it had on the American consumer. Cable TV was everywhere by the 90s and currently more then 1/2 of all households have cable based TV. It's a massive industry that's dominated by a handful of players. Those players are the brokers of what is allowed to appear on their listings and as channel options expanded, people increasingly felt like there's "nothing on". Still, a majority of people have it because of ease of access (hit the power button on TV and entertainment is there, 0 cognitive load).
 
 Sound familiar? The Cable industry is very similar to the LMS industry. It's been around forever (since early 90s) and has been dominated by only a handful of players in the space. They effectively have a monopoly on the way that educational material is presented and transferred from instructor to learner. They control that pipeline and no matter how many channels (or LTI based apps) you have, everyone still complains there's "nothing on".
