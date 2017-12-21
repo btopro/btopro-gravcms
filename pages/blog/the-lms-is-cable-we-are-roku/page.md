@@ -1,11 +1,11 @@
 ---
-title: 'The LMS is Cable, We are Roku.'
+title: 'The LMS is Cable, We are Roku. Expect Us.'
 media_order: file7781274103160.jpg
-image: file7781274103160.jpg
 taxonomy:
     tag:
-        - hax
         - decentralize
+        - hax
+image: file7781274103160.jpg
 ---
 
 ## Cable
