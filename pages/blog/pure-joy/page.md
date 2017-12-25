@@ -13,7 +13,7 @@ The family gathered, friends came and we all shared a laugh.
 Then, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. "I have to start getting ready for bed can I brush my teeth?" A 7 year old is never one to demand they be put to bed when up snacking and well, not sleeping. But this wasn't an average day. This was December 24th.
 
 > "Why do you want to get ready for bed?"
-> 
+
 > "Because, I have to get ready for bed and go to sleep so Santa can come at Midnight!"
 
 He was very excited for Christmas this year, more so then any previous. His cousin was in town, his brother was also at an age he could grasp the brevity of the day. It is among the peak of the family joy meter when it comes to kiddo happiness.
