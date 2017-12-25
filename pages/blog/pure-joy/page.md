@@ -1,5 +1,6 @@
 ---
 title: 'Pure Joy'
+media_order: IMGP8411.jpg
 ---
 
 The family gathered, friends came and we all shared a laugh.
