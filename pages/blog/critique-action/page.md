@@ -9,8 +9,7 @@ taxonomy:
         - 'new year'
 ---
 
-The only barrier is an internet connection and a device
-===
+## The only barrier is an internet connection and a device
 to access a multi-verse of easy to use options, the weight of published opinion has lessened. At one time, people's endorsements made a difference in the world as only a few were allowed to have elevated thought and ideas projected via  a handful of platforms. Those days are long gone though, so I can't help but feel underwhelmed by the fabricated career titles of past generations. Professional blogger, TV commentator, industry critic; when the world has a voice, we are all these things in our own spaces and own ways.
 
 ## Opinion
