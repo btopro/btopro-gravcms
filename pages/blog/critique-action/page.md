@@ -24,7 +24,7 @@ But when it comes to technology, the same exploration often boils down to "I ado
 ## Critiquing critique
 If we continue to simply critique this scenario without fundamentally changing it we'll never grow beyond the solutions and methods of teaching we have today both in residence and in online environments. If we don't actually f'ing build anything (sorry, I hear swearing gets you speaking gigs `;)` ) we'll never be any better than the market allows. So if you're not a millennial, if you don't think education is just a market, and if you want to take more action then just selection of less terrible options in 2018... repeat after me:
 
-> "I am a maker.
+> I am a maker.
 > 
 > I am creative.
 > 
@@ -44,9 +44,9 @@ If we continue to simply critique this scenario without fundamentally changing i
 > 
 > I know together we can fundamentally transform education.
 > 
-> I know that by transforming education, we will change the world."
+> I know that by transforming education, we will change the world.
 > 
-> You, right now
+> You, just now
 
 ## Action
 Together, I know there is nothing we can't build, nothing we can't solve, and no limit to our ability to not just critique the industry; but to change if for the better. Anyone _only_ telling you the system is broken, or that _others are wrong_, yet offer _no tangible solution_, are not people to continue following blindly. Heed their words? Absolutely. Critique, even from legacy career titles is important as a foundation. Critical analysis makes us stronger after all.
