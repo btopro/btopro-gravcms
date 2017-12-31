@@ -9,7 +9,9 @@ taxonomy:
         - 'new year'
 ---
 
-The only barrier is an internet connection and a device        to access a multi-verse of easy to use options, the weight of published opinion has lessened. At one time, people's endorsements made a difference in the world as only a few were allowed to have elevated thought and ideas projected via  a handful of platforms. Those days are long gone though, so I can't help but feel underwhelmed by the fabricated career titles of past generations. Professional blogger, TV commentator, industry critic; when the world has a voice, we are all these things in our own spaces and own ways.
+The only barrier is an internet connection and a device
+===
+to access a multi-verse of easy to use options, the weight of published opinion has lessened. At one time, people's endorsements made a difference in the world as only a few were allowed to have elevated thought and ideas projected via  a handful of platforms. Those days are long gone though, so I can't help but feel underwhelmed by the fabricated career titles of past generations. Professional blogger, TV commentator, industry critic; when the world has a voice, we are all these things in our own spaces and own ways.
 
 ## Opinion
 Everyone can be an "idea person" and every one has platforms that allow them to do so. We no longer have the 70s, 80s and 90s world of channels of input from a handful of powerful people (due to limited number) dictating what we see and think. It is not to say that critics are not without their place; it is important to be a critical of industries, institutions and tribes. Without critique, how can one grow? How can a tribe strengthen its ideals?
