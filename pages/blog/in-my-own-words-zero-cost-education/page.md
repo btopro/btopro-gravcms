@@ -1,5 +1,11 @@
 ---
 title: 'In my own words: Zero cost education.'
+media_order: file0001938132513.jpg
+image: file0001938132513.jpg
+taxonomy:
+    tag:
+        - zer0
+        - education
 ---
 
 I was recently given a question on twitter from a twitter-friend and fellow edtech industry person that I felt was worth expanding into a cohesive blog post.
