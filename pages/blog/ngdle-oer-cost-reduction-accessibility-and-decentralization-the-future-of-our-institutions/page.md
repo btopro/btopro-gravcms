@@ -1,5 +1,6 @@
 ---
 title: 'NGDLE, OER, Cost reduction, accessibility and Decentralization: the future of our institutions.'
+image: PIA22088_medium.jpg
 ---
 
 I'm done with talk about the Next Generation Digital Learning Environment; it's time for action. I have had a plan for laying out the future of technology in higher education that I've formulated since my early work on ELMS: Learning Network, a platform now 4 years old that has roots planted as an initial idea 10 years ago. It's not just a technology solution, it's had years of planning and fostering the ideals that it's been imbued with.
