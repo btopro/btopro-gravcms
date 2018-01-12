@@ -3,6 +3,8 @@ title: 'NGDLE, OER, Cost reduction, accessibility and Decentralization: the futu
 image: PIA22088_medium.jpg
 ---
 
+## I'm done talking.
+
 I'm done with talk about the Next Generation Digital Learning Environment; it's time for action. I have had a plan for laying out the future of technology in higher education that I've formulated since my early work on ELMS: Learning Network, a platform now 4 years old that has roots planted as an initial idea 10 years ago. It's not just a technology solution, it's had years of planning and fostering the ideals that it's been imbued with.
 
 As a result, I'll discuss some efforts into NGDLE, what they propose to look like and why I have personally reframed my thinking from Digital to Distributed; as in Next Generation Distributed Learning Ecosystem. This will be directed at non-technical audiences and why these efforts will transform how we all do our work if we all start moving the same direction philosophically.
