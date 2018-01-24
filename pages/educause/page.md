@@ -24,9 +24,11 @@ If I want to edit the way a video looks, I should be able to reach out and touch
 If I want to embed a video from Youtube, I should be able to search, find, select, and customize all in the same place without ever going to Youtube.
 ![Search the HAX app exchange](2018-01-24_16-39-09.png)
 ![Customize how a video is presented](2018-01-24_16-39-55.png)
-With HAX, you can, but Youtube is just the beginning. What if we could wire anything up to the HAX app exchange and then create an infinite ways to accessibly present that information?
+With HAX, you can, but Youtube is just the beginning. What if we could wire anything up to the HAX app exchange and then create an infinite ways to accessibly present that information? We're starting to pull media in from NASA, Kaltura, Vimeo, Youtube and our own sources.
+### The future of the app exchange
+Why stop at just media? What if we could start setting up courses with our remote? What if we could tell the LMS we have an assignment (so we need a gradebook entry) while simultaneously invoking a studio instruction space to be created for students to learn in. What if we could [say the things we wanted to do](https://www.youtube.com/watch?v=Qn8LjXjtwTg) rather than going to all the places that have the stuff we want or to place the things we need to store other in them. What if we bridged the entire experience of building an instructional experience into something that needed less accounts, less technical know-how and offered greater flexibility then existing methods?
 
-### How is this even possible for a small team?
+### How is this even possible?!?
 HAX is built on a technology called Webcomponents. Webcomponents are changing the way people build things on the web. Imagine HTML but you could define your own tags. If I wanted a branded video player, I could utilize a `<video-player>` tag and it would render.
 
 Or present a table of data and `<lrn-table>` would handle all the accessibility so long as I gave it a csv file.
