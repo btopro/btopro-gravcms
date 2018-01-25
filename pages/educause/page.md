@@ -7,13 +7,9 @@ I mean look at it! It's a bunch of random letters that's hard to pronounced or u
 
 At Penn State, I've been fortunate to been building this weird thing called ELMS: Learning Network. It's an open source NGDLE and I started development prior to the term (_fun fact_). For those on the development team, NGDLE means Next Generation **Distributed** Learning **Ecosystem**.
 
-We feel it is important to emphasize that what we're all building embraces **decentralization** and **ecosystems**. No matter how hard we try, solutions will come from almost anywhere at big universities. Grants, inspired faculty, "rouge faculty", college specific and domain specific tools; solutions can and will come from almost anywhere, both decentralized and centralize.
+ELMS:LN and the projects that make it up (it's actually a system of systems) seek to provide those mythical lego-grid-plates in the NGDLE picture. We provide some of the bricks out of the box to give you some ideas, but the real power is in the philosophy of design of the system. No matter what bricks you plug into the grid plate, you'll always have need for the grid to keep it all together and this is an attempt to be one of those grid plates. ([Check us out if you want to learn more about it!](https://www.elmsln.org)).
 
-So how can we best support this mishmash of distributed tools from "those damn rouge faculty"? We embrace them. Explore the problems they are actually solving (and causing) with their solutions. And help give them a framework and methodology for working with the bigger picture.
-
-ELMS:LN and the projects thatm ake it up (it's actually a system of systems) is an attempt at be that mythical a lego-grid of NGDLE. We provide some of the bricks out of the box to give you some ideas, but the real power is in the philosophy of design of the system. No matter what bricks you plug into the grid plate, you'll always have need for the grid to keep it all together and this is an attempt to be one of those grid plates. ([Check us out if you want to learn more about it!](https://www.elmsln.org)).
-
-Anyway, what does this look like though? We've been running courses via ELMS:LN since 2014. What vision of the NGDLE future are we looking for as a result? What does any of this actually **mean** or **look like** or **do**?
+We've been running courses via ELMS:LN since 2014, so what does our vision of NGDLE look like? What does any of this actually **mean** or **look like** or **do**?
 [![NGDLE University to Faculty to Student relationships](NGDLE-university.jpg)](NGDLE-university.jpg)
 Great question! Hopefully I can help. So let's start with a high level institutional diagram and drill down from there to real things. (click to expand)
 ![University with the universe of apps that exist today](NGDLE-university-uni-side.jpg)
