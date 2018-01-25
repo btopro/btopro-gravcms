@@ -9,12 +9,11 @@ At Penn State, I've been fortunate to been building this weird thing called ELMS
 
 ELMS:LN and the projects that make it up (it's actually a system of systems) seek to provide those mythical lego-grid-plates in the NGDLE picture. We provide some of the bricks out of the box to give you some ideas, but the real power is in the philosophy of design of the system. No matter what bricks you plug into the grid plate, you'll always have need for the grid to keep it all together and this is an attempt to be one of those grid plates. ([Check us out if you want to learn more about it!](https://www.elmsln.org)).
 
-We've been running courses via ELMS:LN since 2014, so what does our vision of NGDLE look like? What does any of this actually **mean** or **look like** or **do**?
+We've been running courses via ELMS:LN since 2014, so what does our vision of NGDLE look like? What does any of this actually **mean** or **look like** or **do**? Hopefully this will help. Let's start at the highest level and drill down from there to real things. (click to expand)
 [![NGDLE University to Faculty to Student relationships](NGDLE-university.jpg)](NGDLE-university.jpg)
-Great question! Hopefully I can help. So let's start with a high level institutional diagram and drill down from there to real things. (click to expand)
-![University with the universe of apps that exist today](NGDLE-university-uni-side.jpg)
 
 ## Universities, Colleges and NGDLE
+![University with the universe of apps that exist today](NGDLE-university-uni-side.jpg)
 Universities buy and build stuff, but one of the most common things after either of these is the old SEO problem: communicating to the people that need a thing that the thing even exists! There's all kind of things we need in different disciplines too, and that won't change, but how we integrate with them will! Taking a page from [BYU's University API](https://developer.byu.edu/docs/design-api/university-api-standard), we have one system that we integrate everything with! No matter what other integrations exist, we MUST integrate with this system so we can **integrate anything with it**. This is one grid plate, as all legos (with studs being APIs) plug into it to provide access to data and experience providers. This grid plate we call the "HAX App Exchange".
 ![Faculty member and their engagement with the universe](NGDLE-university-faculty-side.jpg)
 
