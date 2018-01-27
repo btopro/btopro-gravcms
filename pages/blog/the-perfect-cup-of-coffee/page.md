@@ -20,13 +20,16 @@ Next take out an [@aeropresscom](https://twitter.com/aeropresscom) coffee maker 
 Start the Bonavita set at 195 degrees and select the hold setting. You want 195 not 195 then cool off to 193 or some other garbage temperature. Using the inverted pour method ([described here](http://coffeenate.com/how-to-make-coffee-with-the-aeropress-aeropress-video-tutorial/)) pour the beans in and then slowly pour water. Let sit for 1 min
 
 ensure you've filled to the 3.5 line in the aeropress. After 1 min, apply "the btopro method" which is to press coffee to the 3 line (so .5 lines) to obtain suction, then slowly pull up on the brewer pump. (wwwhhaaaaa you say?)
-<iframe src="https://giphy.com/embed/91fEJqgdsnu4E" width="480" height="368" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/camera-kickstarter-possibilities-91fEJqgdsnu4E">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/91fEJqgdsnu4E" width="480" height="368" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 If successful, you will be able to pull air up from the cup through the filter without it moving, keeping a seal with the beans so that nothing leaks through but air pulses through the upper portions of the bean mash. This maximizes flavor... big time.
 
 after plunger reaches the top of the cup, stop and press down to the 1.5 line. Then slowly pull the plunger back up, and add additional water. Continue doing this until you've used all the water in the Bonavita; ensuring that you keep the temp at 195 the whole time
 
 Press till your cup is full; hopefully being able to run out of water and press all the way to the bottom. The last 5% the press can go down will pull extra oils out of the coffee beans (and believe me, with [@DeathWishCoffee](https://twitter.com/DeathWishCoffee) you'll want the oils). And now, 1 last step (whhaaaa?)
-<iframe src="https://giphy.com/embed/tu54GM19sqJOw" width="480" height="327" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pedro-no-ahora-porfavor-nios-en-crecimiento-tu54GM19sqJOw">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/tu54GM19sqJOw" width="480" height="327" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 Get ANOTHER cup of similar size (or slightly larger), and slowly pour your full cup of coffee into this one until you hit about 95% empty. Very, slowly pour this last amount and you'll be able to trap any excessive sediment added via "the btopro method" and discard.
 
 And now. You have the ultimate cup of home brewed coffee. Perfect for enjoying while the kids are napping and you write an excessively long series of tweets about how you typically spend 15 minutes making a cup of coffee much to the critique of everyone you know and love. Fin.
