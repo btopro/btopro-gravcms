@@ -1,6 +1,6 @@
 ---
 title: 'NGDLE is really just Enigma misspelled'
-media_order: 'NGDLE-university.jpg,NGDLE-university-uni-side.jpg,NGDLE-university-faculty-side.jpg,2018-01-24_16-39-09.png,2018-01-24_16-39-55.png,2018-01-24_16-40-31.png,lrn-table.jpg,wikipedia-query.jpg,aframe-player.jpg,paper-audio-player.jpg'
+media_order: 'NGDLE-university.jpg,NGDLE-university-uni-side.jpg,NGDLE-university-faculty-side.jpg,2018-01-24_16-39-55.png,2018-01-24_16-40-31.png,lrn-table.jpg,wikipedia-query.jpg,aframe-player.jpg,paper-audio-player.jpg'
 ---
 
 I mean look at it! It's a bunch of random letters that's hard to pronounced or use in a sentence. Years after initial usage, people still have difficulty saying what one is beyond pictures of childhood toys. My poking fun is in gest though, it's a complex idea and it at least evokes an important mental picture of "things beyond the LMS matter... a lot".
@@ -32,7 +32,7 @@ If I want to edit the way a video looks, I can click and modify it.
 ![Placing a video in HAX](2018-01-24_16-40-31.png)
 
 If I want to embed a video from Youtube, I can search, select, and customize all in one place without ever leaving.
-![Search the HAX app exchange](2018-01-24_16-39-09.png)
+
 
 If I want to modify an element, HAX presents a consistent form for doing so:
 ![Customize how a video is presented](2018-01-24_16-39-55.png)
