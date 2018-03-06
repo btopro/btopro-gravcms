@@ -14,9 +14,9 @@ This means faculty can start authoring advanced HTML without ever looking at it.
 
 Interested in helping us #haxtheweb? Check out some links:
 
-http://haxtheweb.org - this is a demo which is completely headless
-https://github.com/LRNWebComponents - our open element library, currently north of 130 elements that work anywhere
-https://www.youtube.com/playlist?list=PLJQupiji7J5eTqv8JFiW8SZpSeKouZACH - #haxtheweb playlist of tutorials, demonstrations, and ramblings
+* http://haxtheweb.org - this is a demo which is completely headless
+* https://github.com/LRNWebComponents - our open element library, currently north of 130 elements that work anywhere
+* https://www.youtube.com/playlist?list=PLJQupiji7J5eTqv8JFiW8SZpSeKouZACH - #haxtheweb playlist of tutorials, demonstrations, and ramblings
 
 This is an effort that can benefit any Apereo project and the ELMS:LN core team would happily entertain collaborations to help bring HAX to more than just ELMS:LN's community. Currently there are HAX integrations for Drupal (6,7), BackdropCMS, GravCMS and ELMS:LN. HAX is slated to be the default authoring experience for ELMS:LN by Fall 2018 with pilot to real people happening Summer 2018.
 
