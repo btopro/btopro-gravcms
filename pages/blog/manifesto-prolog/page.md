@@ -2,7 +2,8 @@
 title: 'The Higher Education Decentralization Manifesto (The Prolog)'
 ---
 
-*This is the start of a manifesto. Consider this background reading*
+*This is the start of a manifesto.*
+*Consider this background reading*
 There's an argument I heard brought up by a high level manager at a land grant institution (**cough**) that I've NEVER heard anyone in management make before and it really helped give me hope for the future. They said that while their higher ups would look at a problem and say why are we building what we can just buy; but that as they see it, the real question should be when it's this easy to build, why would you ever buy? (paraphrasing) "It's not even a question of buy, you can't buy this".
 
 ## It's not even a question of buy, you can't buy this
