@@ -1,5 +1,5 @@
 ---
-title: 'The Higher Education Decentralization Manifesto (The Prolog)'
+title: 'The Knowledge Decentralization Manifesto (The Prolog)'
 ---
 
 *This is the start of a manifesto.*
