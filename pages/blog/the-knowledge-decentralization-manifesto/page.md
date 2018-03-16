@@ -1,11 +1,11 @@
 ---
-title: 'The Higher Education Decentralization Manifesto'
+title: 'The Knowledge Decentralization Manifesto'
 media_order: 'knowledge producer.jpeg,innovation in course infrastructure.jpg,avsb information construction.jpeg,2 courses.jpeg,LTI Entrapment.jpeg,NGDLE considerations.jpeg,the last 30 years of knowledge dissemination_.jpeg,ux normalization.jpeg,20180316_163855.jpg'
 ---
 
-# The Knowledge Decentralization Manifesto
+Knowledge and its access is a system of control.
 
-Knowledge and its access is a system of control. As the "[Apple of Eden](https://en.wikipedia.org/wiki/Forbidden_fruit)" unlocked the power to question so too is the case with all modern knowledge transfer technologies. Knowledge corrupts established thought, expands horizons, and changes human outcomes in powerful ways. It has network effects of its own and so, it is imperative that we as producers and orchestrators of knowledge production, management and dissemination acknowledge the power we wield. We have the power to shape society. So how best can we utilize our talents to maximize empowerment?
+As the "[Apple of Eden](https://en.wikipedia.org/wiki/Forbidden_fruit)" unlocked the power to question so too is the case with all modern knowledge transfer technologies. Knowledge corrupts established thought, expands horizons, and changes human outcomes in powerful ways. It has network effects of its own and so, it is imperative that we as producers and orchestrators of knowledge production, management and dissemination acknowledge the power we wield. We have the power to shape society. So how best can we utilize our talents to maximize empowerment?
 
 _It is an ethical imperative that we seek the fundamental transformation of higher education to maximize quality and access to knowledge_. This transformation will empower the globe to increase empathy, maximize personal freedom and personal growth through increased educational equality.
 
