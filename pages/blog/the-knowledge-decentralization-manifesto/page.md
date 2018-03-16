@@ -69,7 +69,6 @@ Some will argue the market caught up with them (Amazon specifically) but what re
 
 ## Forces to support which will decentralize the theocratic knowledge production market
 
-![Faculty stuck in a cycle of no control while students deserve more](the%20last%2030%20years%20of%20knowledge%20dissemination_.jpeg)
 
 Support these efforts, and we collectively can disrupt the theocratic knowledge production market
 - [Paul Hibbits Course Hub GravCMS project](http://paulhibbitts.net/)
