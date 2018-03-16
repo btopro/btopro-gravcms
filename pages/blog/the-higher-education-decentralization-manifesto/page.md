@@ -1,7 +1,6 @@
 ---
 title: 'The Higher Education Decentralization Manifesto'
 media_order: 'knowledge producer.jpeg,innovation in course infrastructure.jpg,avsb information construction.jpeg,2 courses.jpeg,LTI Entrapment.jpeg,NGDLE considerations.jpeg,the last 30 years of knowledge dissemination_.jpeg,ux normalization.jpeg,20180316_163855.jpg'
-published: false
 ---
 
 # The Knowledge Decentralization Manifesto
