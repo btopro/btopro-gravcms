@@ -27,7 +27,7 @@ All knowledge is produced in any location that best meets its needs (Solution Y)
 ## Decentralization of knowledge construction
 This decentralization of knowledge construction still affords the minimal amount of centralization required to avoid chaos, which I shall deem [structured anarchy](https://btopro.wordpress.com/2011/03/21/structured-anarchy/). The point of decentralizing knowledge production is not to produce chaos, it is to provide more vibrant, local options to better meet the needs of knowledge producers based on the topic of choice. We don't setup science lab classes expecting to teach forestry in them. We don't expect our doctors of tomorrow to learn while dangling from a tree harness.
 
-> Why then should it be absurd to construction technology environments that best meet the needs of the topic at hand?
+> Why then should it be absurd to construct technology environments that best meet the needs of the topic at hand?
 
 Seeding this ground, that all learning environments and knowledge production silos are the same, forces us to accept structural failings of today's learning management systems which better resemble a theocracy then today's vibrant internet culture. These structural failures lead to simple technical ones that are difficult for modern knowledge produces to understand (yet are forced to accept):
 
