@@ -109,5 +109,7 @@ Will you join me in trying to be more than just a vapor in this world but to lea
 
 Ex Uno Plura - Out of one, many. Be that one that can bring forth the empowerment of many.
 
-Bryan Todd Ollendyke
-March 16th, 2018.
+
+_Bryan Todd Ollendyke_
+
+_March 16th, 2018._
