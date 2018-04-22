@@ -1,6 +1,9 @@
 ---
 title: 'Straddling the Abyss'
 media_order: photo-1517590440605-44b39f4b233a.jpg
+process:
+    markdown: false
+    twig: false
 image: photo-1517590440605-44b39f4b233a.jpg
 ---
 
