@@ -6,7 +6,9 @@ image: photo-1517590440605-44b39f4b233a.jpg
 
 <h2>The tight rope walker</h2>
 
-<p>He looks to his left, certain death. He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward, only to move forward step by step. Step too far one way and risk having to over correct. Over correct too far and the entire thing comes to a stand still at best; at worst, the journey is over.</p>
+<p>He looks to his left, certain death.</p>
+
+<p>He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward, only to move forward step by step. Step too far one way and risk having to over correct. Over correct too far and the entire thing comes to a stand still at best; at worst, the journey is over.</p>
 <p>I got to talk to my wife the other night before bed. It's intended as it sounds; rare lately. 2018 has been very busy for us. Lots of travel, lots of juggling schedules of kids, jobs, extra work on both our parts, and so as any parents of two young children know the conversation time without the noise of life is often rare. It was in this moment that I used a phrase I haven't fully explained previously.</p>
 
 <p>It was that of where my work is heading and the creeping abyss that I see myself needing to avoid. She asked what I meant by having to approach the abyss (in reference to our work and where it's going). I'm not really one to bring conversations that are really personal in matter up in a public form but if none speak that which is abnormal then all that remains is what others claim as normalcy.</p>
