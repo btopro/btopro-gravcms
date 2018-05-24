@@ -4,6 +4,7 @@ media_order: 40507445020_ce4ff90b7e_b.jpg
 image: 40507445020_ce4ff90b7e_b.jpg
 ---
 
+
 <p style="width: 100%;">Bridges  get us from point A to point B. Woo. But they also present (literarily) a different space to occupy. If we view two locations as islands of thought. Different, separated by space; the bridge is the uniting force to get from A to B. In many spaces of thought we are presented with two options (or more but usually two primary options)</p>
 
 <p>Politically, we see this with R********** and D********. Yes, Libertarian's exist (supposedly) but are marginal comparatively both financially and institutionally (and yes, I'm a Classical Liberal so..). However, why Classical Liberalism is shouted down or seen as foreign (see David Rubin or anyone else on New media that thinks outside the R/D box) is because they occupy the bridge. In this realm, the bridge is literally just being ok with hearing each other's perspective (sad but yes).</p>
